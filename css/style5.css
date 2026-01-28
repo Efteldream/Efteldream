@@ -322,11 +322,12 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/images/maxresdefault.jpg');
+    background-image: url('/Efteldream/images/maxresdefault.jpg');
     background-size: cover;
     background-position: center;
-    z-index: 0; 
+    z-index: 0;
 }
+
 
 @keyframes zoomPan {
     0%, 100% { transform: scale(1.1) translate(-10%, -10%); }
